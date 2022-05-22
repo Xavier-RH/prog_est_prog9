@@ -17,5 +17,5 @@ Presenta el uso de:
 <b>Objetivo:</b> Mostrar el funcionamiento de scanf para guardar datos en distintas variables y el uso de operaciones matemáticas básicas.
 
 <p><b>Breve descripcion:</b>
-El programa pide ingresar los datos de un tetraedro regular para calcular su área
+El programa pide ingresar los datos de un tetraedro regular para calcular su área y su volumen
 </p>
